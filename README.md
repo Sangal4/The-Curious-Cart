@@ -2,6 +2,7 @@
 
 Fully Functional E-commerce Website
 ![Register Page](https://github.com/Sangal4/The-Curious-Cart/blob/main/Screenshot%202024-12-05%20122242.png)
+![Home Page](https://github.com/Sangal4/The-Curious-Cart/blob/main/Screenshot%202024-12-05%20121423.png)
 ![Cart Page](https://github.com/Sangal4/The-Curious-Cart/blob/main/Screenshot%202024-12-05%20122054.png)
 
 
