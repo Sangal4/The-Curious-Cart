@@ -2,6 +2,8 @@
 
 Fully Functional E-commerce Website
 ![Register Page](https://github.com/Sangal4/The-Curious-Cart/blob/main/Screenshot%202024-12-05%20122242.png)
+![Cart Page](https://github.com/Sangal4/The-Curious-Cart/blob/main/Screenshot%202024-12-05%20122054.png)
+
 
 Welcome to The Curious Cart, a seamless and modern e-commerce platform where users can browse, purchase, and manage their orders. Built with Django for the backend and React for the frontend, this project provides a complete shopping experience with secure payments via Stripe.
 
